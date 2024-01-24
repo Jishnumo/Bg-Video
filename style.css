@@ -23,6 +23,7 @@ div .w{
     font-size: 9rem;
     font-weight: 600;
     font-family: sans-serif;
+    -webkit-text-stroke: 1px black;
     color: white;
     margin-bottom: 50px;
 }
